@@ -1,5 +1,5 @@
 - Hi, I’m @Westboarder44
-- I’m interested in Game Development & Cyber Security
+- I’m interested in Cyber Security & Game Development
 - I’m currently unemployed (pls hire me)
 - I’m looking to collaborate on anything, really
 - How to reach me: lunaschulze2006@gmx.de
