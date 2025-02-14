@@ -6,4 +6,4 @@
 - Pronouns: she/her
 - Fun fact: I use arch btw
 
-[![roadmap.sh](https://roadmap.sh/card/tall/6777db6870129741a8fff5b6?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/6777db6870129741a8fff5b6?variant=dark&roadmaps=cyber-security%2Clinux)](https://roadmap.sh)
